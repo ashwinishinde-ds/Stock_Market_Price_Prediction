@@ -92,6 +92,3 @@ https://stock-trade-signal-app.streamlit.app/
 * Better forecasting models
 * Portfolio management tools
 * Improved UI and analytics
-
-## Author
-Ashwini Shinde
