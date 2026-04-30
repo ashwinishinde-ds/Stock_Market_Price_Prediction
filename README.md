@@ -94,5 +94,4 @@ https://stock-trade-signal-app.streamlit.app/
 * Improved UI and analytics
 
 ## Author
-
-Pratik Shere
+Ashwini Shinde
